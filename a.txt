@@ -1,6 +1,2 @@
 1111
 2222
-dev update
-master update
-dev update02
-77777
